@@ -1,0 +1,31 @@
+body {
+
+    background-color: #120609;
+}
+.content {
+    width: 800px;
+    background-color:#d33b3b;
+    margin: auto;
+    padding: 16px;
+}
+table {
+    width : 100%;
+    
+}
+h1{
+    font-size: 23px;
+}
+h2{
+    font-size: 20px;
+}
+
+.Testimoni {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 12px;
+    padding-left: 12px;
+    color: rgb(7, 7, 7);
+
+}
